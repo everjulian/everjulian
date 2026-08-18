@@ -20,7 +20,7 @@
 
 Construyo soluciones de **IA generativa y automatización** que ayudan a organizaciones a comunicarse mejor con las comunidades que más les cuesta alcanzar. Lo he probado en salud pública, y el mismo enfoque aplica a educación, gobierno o cualquier sector con ese reto.
 
-Mi enfoque: usar herramientas de IA (**code y no-code**) para resolver problemas reales de comunicación, alcance y automatización — sin necesidad de ser ingeniero de software para construir algo que funcione y tenga impacto real.
+Mi enfoque: usar herramientas de IA (**code y no-code**) para resolver problemas reales de comunicación, alcance y automatización —  para construir algo que funcione y tenga impacto real.
 
 <br>
 
