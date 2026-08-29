@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Ever Julian Arboleda Ardila 👋
 
-### AI & Automation Strategist · Construyo. Conecto. Escalo.
+### AI Product · Construyo. Valido. Mejoro.
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Chatbots+que+conectan+organizaciones+con+comunidades+dif%C3%ADciles+de+alcanzar;Chatbot+Gripe+Aviar+%E2%80%94+publicado+en+la+Revista+AMEXBIO;AI+%26+Content+Strategist+en+CEPVVS;Construyendo+mi+propio+asistente+RAG" alt="Typing SVG" />
 
@@ -18,9 +18,9 @@
 
 ### 🚀 Sobre mí
 
-Construyo soluciones de **IA generativa y automatización** que ayudan a organizaciones a comunicarse mejor con las comunidades que más les cuesta alcanzar. Lo he probado en salud pública, y el mismo enfoque aplica a educación, gobierno o cualquier sector con ese reto.
+Construyo y valido soluciones de IA aplicadas a problemas reales, desde la identificación de una necesidad hasta el prototipo y su prueba en contexto. He trabajado especialmente en salud pública, explorando cómo la IA puede mejorar el acceso a información, el análisis de necesidades y la conexión entre organizaciones y comunidades.
 
-Mi enfoque: usar herramientas de IA (**code y no-code**) para resolver problemas reales de comunicación, alcance y automatización —  para construir algo que funcione y tenga impacto real.
+Mi enfoque está en combinar producto, IA y automatización, utilizando herramientas code y no-code para investigar, construir, probar e iterar soluciones que realmente generen valor.
 
 <br>
 
